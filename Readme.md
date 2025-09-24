@@ -56,4 +56,4 @@ Delivering a clean, responsive, and impactful design
 
 Robby Bambang Nurdiansyah
 
-Web Developer | QA Enthusiast | n8n Automation
+Web Developer | QA Engineer | n8n Automation
