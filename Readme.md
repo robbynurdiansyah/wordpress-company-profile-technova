@@ -1,27 +1,27 @@
 
-## 🌐 TechNova – Company Profile Website
+## TechNova – Company Profile Website
 
 A simple **WordPress-based company profile website** for **TechNova Solutions**.  
 This project demonstrates how to build a clean and professional business website using **custom WordPress theme setup, essential plugins, and impactful page structure**.
 
 ---
 
-## 📌 Features
+## Features
 
-- 🏢 **Company Profile Pages** (Home, About, Services, Portfolio, Contact)  
-- 🎨 **Custom WordPress Theme** based on **Astra** (lightweight & flexible)  
-- 🔌 **Essential Plugins**:
+- **Company Profile Pages** (Home, About, Services, Portfolio, Contact)  
+- **Custom WordPress Theme** based on **Astra** (lightweight & flexible)  
+- **Essential Plugins**:
   - Elementor (drag-and-drop builder)
   - Contact Form 7 (contact form)
   - Yoast SEO (SEO optimization)
   - WP Super Cache (performance boost)
-- 📱 **Responsive Design** (mobile & desktop ready)
-- ⚡ **Fast & Lightweight** setup for better performance
-- 🛠️ Easy to customize and extend  
+- **Responsive Design** (mobile & desktop ready)
+- **Fast & Lightweight** setup for better performance
+- Easy to customize and extend  
 
 ---
 
-## 📸 Preview
+## Preview
 
 #### Homepage
 ![Homepage Preview](screenshoot/Home.png)
@@ -40,7 +40,7 @@ This project demonstrates how to build a clean and professional business website
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project is created as a portfolio showcase to demonstrate:
 
@@ -52,7 +52,7 @@ Delivering a clean, responsive, and impactful design
 
 ---
 
-## 🧑 Author
+## Author
 
 Robby Bambang Nurdiansyah
-💼 Web Developer | QA Enthusiast | n8n Automation
+Web Developer | QA Enthusiast | n8n Automation
