@@ -23,7 +23,7 @@ This project demonstrates how to build a clean and professional business website
 
 ## 📸 Preview
 
-# Homepage
+#### Homepage
 ![Homepage Preview](screenshoot/Home.png)
 
 ## 🎯 Purpose
