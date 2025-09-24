@@ -26,6 +26,18 @@ This project demonstrates how to build a clean and professional business website
 #### Homepage
 ![Homepage Preview](screenshoot/Home.png)
 
+#### Services
+![Homepage Preview](screenshoot/Services.png)
+
+#### Why Choose Us
+![Homepage Preview](screenshoot/Choose.png)
+
+#### Testimonial
+![Homepage Preview](screenshoot/Testimonial.png)
+
+#### Contact Us
+![Homepage Preview](screenshoot/Contact.png)
+
 ## 🎯 Purpose
 
 This project is created as a portfolio showcase to demonstrate:
