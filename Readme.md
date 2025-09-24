@@ -1,3 +1,4 @@
+
 ## 🌐 TechNova Solutions – Company Profile Website
 
 A simple **WordPress-based company profile website** for **TechNova Solutions**.  
@@ -22,7 +23,7 @@ This project demonstrates how to build a clean and professional business website
 
 ## 📸 Preview
 
-
+![Homepage Preview](assets/homepage.png)
 
 ## 🎯 Purpose
 
@@ -38,5 +39,4 @@ Delivering a clean, responsive, and impactful design
 
 Robby Bambang Nurdiansyah
 💼 Programmer & QA Enthusiast
-🔗 LinkedIn
- | GitHub
+🔗 LinkedIn | GitHub
