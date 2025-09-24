@@ -1,5 +1,5 @@
 
-## 🌐 TechNova Solutions – Company Profile Website
+## 🌐 TechNova – Company Profile Website
 
 A simple **WordPress-based company profile website** for **TechNova Solutions**.  
 This project demonstrates how to build a clean and professional business website using **custom WordPress theme setup, essential plugins, and impactful page structure**.
@@ -23,6 +23,7 @@ This project demonstrates how to build a clean and professional business website
 
 ## 📸 Preview
 
+# Homepage
 ![Homepage Preview](screenshoot/Home.png)
 
 ## 🎯 Purpose
