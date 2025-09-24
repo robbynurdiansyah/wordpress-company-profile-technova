@@ -39,5 +39,4 @@ Delivering a clean, responsive, and impactful design
 
 Robby Bambang Nurdiansyah
 💼 Programmer & QA Enthusiast
-🔗 LinkedIn
- | GitHub
+🔗 LinkedIn | GitHub
